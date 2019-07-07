@@ -1,0 +1,84 @@
+nom_beneficiario;dat_solicitacao;nom_procedimento;dsc_codigo_procedimento_origem;dat_atendimento
+PAULO HENRIQUE ISMAEL;2019-01-28;Doppler colorido de aorta e ilíacas;40901408;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais);40901360;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;Ecodopplercardiograma transtorácico;40901106;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;Monitorização ambulatorial da pressão arterial - MAPA (24 horas);20102038;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;Prova de função pulmonar completa (ou espirometria);40105075;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;RX - Tórax - 2 incidências;40805026;2019-01-28 00:00:00.000000
+PAULO HENRIQUE ISMAEL;2019-01-28;Teste ergométrico computadorizado (inclui ECG basal convencional);40101037;2019-01-28 00:00:00.000000
+SILVIO TERUO ISSOE;2019-01-28;Doppler colorido de artérias viscerais (mesentéricas superior e inferior e tronco celíaco);40901416;2019-01-28 00:00:00.000000
+MARIANE MELISE BASTOS;2019-01-25;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-25 00:00:00.000000
+EVANDRO ELIAS BATISTA;2019-01-24;Doppler colorido arterial de membro superior - unilateral;40901459;2019-01-24 00:00:00.000000
+EVANDRO ELIAS BATISTA;2019-01-24;Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais);40901360;2019-01-24 00:00:00.000000
+EVANDRO ELIAS BATISTA;2019-01-24;Doppler colorido venoso de membro superior - unilateral;40901467;2019-01-24 00:00:00.000000
+MARCIA AKEMI IBATA ARIZONO;2019-01-24;Doppler colorido arterial de membro inferior - unilateral;40901475;2019-01-24 00:00:00.000000
+MARCIA AKEMI IBATA ARIZONO;2019-01-24;Doppler colorido arterial de membro superior - unilateral;40901459;2019-01-24 00:00:00.000000
+MARCIA AKEMI IBATA ARIZONO;2019-01-24;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-24 00:00:00.000000
+MARCIA AKEMI IBATA ARIZONO;2019-01-24;Doppler colorido venoso de membro superior - unilateral;40901467;2019-01-24 00:00:00.000000
+CIRLENE GRANDIZOLI BARBOSA;2019-01-23;Doppler colorido venoso de membro superior - unilateral;40901467;2019-01-23 00:00:00.000000
+MURILO MALDONADO PUGLIERI;2019-01-23;Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais);40901360;2019-01-23 00:00:00.000000
+MURILO MALDONADO PUGLIERI;2019-01-23;Ecodopplercardiograma transtorácico;40901106;2019-01-23 00:00:00.000000
+MURILO MALDONADO PUGLIERI;2019-01-23;RX - Tórax - 2 incidências;40805026;2019-01-23 00:00:00.000000
+MURILO MALDONADO PUGLIERI;2019-01-23;Teste ergométrico computadorizado (inclui ECG basal convencional);40101037;2019-01-23 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Coagulograma (TS, TC, prova do laço, retração do coágulo, contagem de plaquetas, tempo de protombina, tempo de tromboplastina, parcial ativado) - pesquisa e/ou dosagem;40304922;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Creatinina - pesquisa e/ou dosagem;40301630;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Ferritina - pesquisa e/ou dosagem;40316270;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Glicose - pesquisa e/ou dosagem;40302040;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Gonadotrófico coriônico, hormônio (HCG) - pesquisa e/ou dosagem;40316327;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas);40304361;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Proteínas totais albumina e globulina - pesquisa e/ou dosagem;40302385;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;Rotina de urina (caracteres físicos, elementos anormais e sedimentoscopia);40311210;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;US - Órgãos superficiais (tireóide ou escroto ou pênis ou crânio);40901203;2019-01-15 00:00:00.000000
+ANA PAULA TOMAZELA;2019-01-15;;;2019-01-15 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Ácido úrico - pesquisa e/ou dosagem;40301150;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Antimicrossomal - pesquisa e/ou dosagem;40306348;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Coagulograma (TS, TC, prova do laço, retração do coágulo, contagem de plaquetas, tempo de protombina, tempo de tromboplastina, parcial ativado) - pesquisa e/ou dosagem;40304922;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Colesterol (HDL) - pesquisa e/ou dosagem;40301583;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Colesterol total - pesquisa e/ou dosagem;40301605;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Creatinina - pesquisa e/ou dosagem;40301630;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Ferritina - pesquisa e/ou dosagem;40316270;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Ferro sérico - pesquisa e/ou dosagem;40301842;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Gama-glutamil transferase - pesquisa e/ou dosagem;40301990;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Glicose - pesquisa e/ou dosagem;40302040;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas);40304361;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;T4 livre - pesquisa e/ou dosagem;40316491;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Tireoestimulante, hormônio (TSH) - pesquisa e/ou dosagem;40316521;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Transaminase oxalacética (amino transferase aspartato) - pesquisa e/ou dosagem;40302504;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Transaminase pirúvica (amino transferase de alanina) - pesquisa e/ou dosagem;40302512;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Triglicerídeos - pesquisa e/ou dosagem;40302547;2019-01-07 00:00:00.000000
+GIOVANA CAROLINE GONCALVES;2019-01-07;Vitamina "D" 25 HIDROXI, pesquisa e/ou dosagem (Vitamina D3);40302830;2019-01-07 00:00:00.000000
+EVANILDE SIMOES MARCON;2019-01-04;Doppler colorido arterial de membro inferior - unilateral;40901475;2019-01-04 00:00:00.000000
+EVANILDE SIMOES MARCON;2019-01-04;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Cálcio - pesquisa e/ou dosagem;40301400;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Creatinina - pesquisa e/ou dosagem;40301630;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Doppler colorido arterial de membro superior - unilateral;40901459;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Doppler colorido venoso de membro superior - unilateral;40901467;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Fósforo - pesquisa e/ou dosagem;40301931;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Gasometria (pH, pCO2, SA, O2, excesso base) - pesquisa e/ou dosagem;40302016;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas);40304361;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Potássio - pesquisa e/ou dosagem;40302318;2019-01-04 00:00:00.000000
+CLAUDIO GANZELLA;2019-01-04;Rotina de urina (caracteres físicos, elementos anormais e sedimentoscopia);40311210;2019-01-04 00:00:00.000000
+VALQUIRIA APARECIDA DA SILVA;2019-01-04;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;Doppler colorido de aorta e ilíacas;40901408;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais);40901360;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;ECG convencional de até 12 derivações;40101010;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;Ecodopplercardiograma transtorácico;40901106;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;Ergoespirometria ou teste cardiopulmonar de exercício completo (espirometria forçada, consumo de O2, produção de CO2 e derivados, ECG, oximetria);40101061;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;RX - Tórax - 2 incidências;40805026;2019-01-04 00:00:00.000000
+WALDEMAR PEREIRA DOS SANTOS;2019-01-04;US - Abdome total (abdome superior, rins, bexiga, aorta, veia cava inferior e adrenais);40901122;2019-01-04 00:00:00.000000
+BARBARA CARVALHO TEIXEIRA;2019-01-04;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-04 00:00:00.000000
+PAULO ANTONIO DOS SANTOS SILVA;2019-01-04;Doppler colorido arterial de membro inferior - unilateral;40901475;2019-01-04 00:00:00.000000
+PAULO ANTONIO DOS SANTOS SILVA;2019-01-04;Doppler colorido de aorta e ilíacas;40901408;2019-01-04 00:00:00.000000
+PAULO ANTONIO DOS SANTOS SILVA;2019-01-04;Doppler colorido de vasos cervicais arteriais bilateral (carótidas e vertebrais);40901360;2019-01-04 00:00:00.000000
+PAULO ANTONIO DOS SANTOS SILVA;2019-01-04;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-04 00:00:00.000000
+EDUARDO AUGUSTO ARAUJO SECONELO;2019-01-03;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-03 00:00:00.000000
+CARMEN RAMALHO GAGLIARDI;2019-01-03;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-03 00:00:00.000000
+PRISCILA PEREIRA ALVES;2019-01-03;Doppler colorido venoso de membro inferior - unilateral;40901483;2019-01-03 00:00:00.000000
+OLIRDES VIOLIN;2018-12-26;Doppler colorido venoso de membro inferior - unilateral;40901483;2018-12-26 00:00:00.000000
+SEBASTIANA PELEGRINI MARTIM;2018-12-18;Doppler colorido venoso de membro inferior - unilateral;40901483;2018-12-18 00:00:00.000000
+SEBASTIANA PELEGRINI MARTIM;2018-12-18;Glicose - pesquisa e/ou dosagem;40302040;2018-12-18 00:00:00.000000
+SEBASTIANA PELEGRINI MARTIM;2018-12-18;Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas);40304361;2018-12-18 00:00:00.000000
+SEBASTIANA PELEGRINI MARTIM;2018-12-18;Proteína C reativa, quantitativa - pesquisa e/ou dosagem;40308391;2018-12-18 00:00:00.000000
+LUCIANA RODRIGUES MATOS PAGLIUSO;2018-12-18;Doppler colorido venoso de membro inferior - unilateral;40901483;2018-12-18 00:00:00.000000
